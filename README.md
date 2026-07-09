@@ -1,27 +1,38 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Modern Business](http://startbootstrap.com/template-overviews/modern-business/)
+# Web Profil Toko YAN
 
-[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+[Web Profil Toko YAN](https://github.com/GeraldiJari/YanResourceCode/tree/master) Klik link ini untuk mengarah ke branch master YanResourceCode.
 
-[Web Profil Toko YAN Code](https://github.com/GeraldiJari/YanResourceCode/tree/master)
-## Getting Started
+## Develop By Rhodes Team
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+- **[Geraldi Jari Assaji]**: Bertanggung jawab untuk membuat bagian dari sisi User, Backend & QA.
 
-## Bugs and Issues
+- **[Adnan Arkan Kurniawan]**: Bertanggung jawab untuk membuat bagian dari sisi User & Backend.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-modern-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/modern-business/).
+- **[Navandra Rafa Ariseno]**: Bertanggung jawab untuk membuat bagian dari sisi Backend dan sebagai sistem Analyst.
 
-## Creator
+- **[Muhammad Aditya Pratama]**: Bertanggung jawab untuk membuat bagian dari sisi User dan sebagai dokumenter.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+- **[Ahdan Muhammad Mumtaz]**: Bertanggung jawab untuk membuat bagian dari sisi UI & UX.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+# Web Profil Toko YAN
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Toko YAN adalah tempat di mana Anda dapat menemukan berbagai produk berkualitas, mulai dari bahan pangan, kebutuhan rumah tangga, hingga produk-produk pilihan lainnya. Kami berkomitmen untuk menyediakan layanan terbaik bagi pelanggan kami, dengan fokus pada kemudahan, kenyamanan, dan kepuasan belanja.
 
-## Copyright and License
+## Fitur Utama
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
+- **Navigasi Mudah**: Desain user-friendly yang memudahkan pelanggan dalam menemukan produk melalui kategori yang tersusun rapi.
+- **Informasi Produk**: Setiap produk dilengkapi dengan deskripsi yang jelas.
+- **Interaksi Pelanggan**: Pelanggan dapat dengan mudah menghubungi kami melalui form kontak yang tersedia, serta mengikuti update terbaru melalui media sosial yang terintegrasi.
+
+## Kontak
+
+Jika Anda memiliki pertanyaan atau ingin mengetahui lebih lanjut tentang website yang kami buat, jangan ragu untuk menghubungi kami:
+
+- **Email**: [assajigeraldi@gmail.com](mailto:assajigeraldi@gmail.com)
+- **Telepon**: +62 817-7997-0642
+
+
+
+---
+
+© 2024 Rhodes Team. All rights reserved.
