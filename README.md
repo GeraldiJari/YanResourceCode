@@ -1,10 +1,10 @@
 # Web Profil Toko YAN
 
-[Web Profil Toko YAN](https://github.com/GeraldiJari/YanResourceCode/tree/master) Klik link ini untuk mengarah ke branch master YanResourceCode
+[Web Profil Toko YAN](https://github.com/GeraldiJari/YanResourceCode/tree/master) Klik link ini untuk mengarah ke branch master YanResourceCode.
 
 ## Develop By Rhodes Team
 
-- **[Geraldi Jari Assaji]**: Bertanggung jawab untuk membuat bagian dari sisi User, Backend & QA
+- **[Geraldi Jari Assaji]**: Bertanggung jawab untuk membuat bagian dari sisi User, Backend & QA.
 
 - **[Adnan Arkan Kurniawan]**: Bertanggung jawab untuk membuat bagian dari sisi User & Backend.
 
