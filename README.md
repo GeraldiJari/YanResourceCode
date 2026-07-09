@@ -4,15 +4,17 @@
 
 ## Develop By Rhodes Team
 
-- **[Geraldi Jari Assaji]**: Bertanggung jawab untuk membuat bagian dari sisi User & Admin.
+- **[Geraldi Jari Assaji]**: Bertanggung jawab untuk membuat bagian dari sisi User, Backend & QA
 
-- **[Adnan Arkan Kurniawan]**: Bertanggung jawab untuk membuat bagian dari sisi User.
+- **[Adnan Arkan Kurniawan]**: Bertanggung jawab untuk membuat bagian dari sisi User & Backend.
+
+- **[Navandra Rafa Ariseno]**: Bertanggung jawab untuk membuat bagian dari sisi Backend dan sebagai sistem Analyst.
+
+- **[Muhammad Aditya Pratama]**: Bertanggung jawab untuk membuat bagian dari sisi User dan sebagai dokumenter.
+
+- **[Ahdan Muhammad Mumtaz]**: Bertanggung jawab untuk membuat bagian dari sisi UI & UX.
 
 # Web Profil Toko YAN
-
-Selamat datang di **Web Profil Toko YAN** - solusi belanja kebutuhan sehari-hari yang modern dan terpercaya.
-
-## Tentang Toko YAN
 
 Toko YAN adalah tempat di mana Anda dapat menemukan berbagai produk berkualitas, mulai dari bahan pangan, kebutuhan rumah tangga, hingga produk-produk pilihan lainnya. Kami berkomitmen untuk menyediakan layanan terbaik bagi pelanggan kami, dengan fokus pada kemudahan, kenyamanan, dan kepuasan belanja.
 
